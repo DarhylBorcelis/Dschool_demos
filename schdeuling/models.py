@@ -84,6 +84,7 @@ class Store:
         # Seed a couple of teachers
         self.add_teacher("jason", "Jason")
         self.add_teacher("maria", "Maria")
+        self.add_teacher("dar", "Dar")
 
     # ── Teachers ────────────────────────────────────────────────────────────
 
