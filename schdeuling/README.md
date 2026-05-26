@@ -5,9 +5,8 @@ A PyQt5/PySide6 desktop scheduling app — **no database required**.
 ## Quick Start
 
 ```bash
-# Install dependencies (pick one)
+# Install dependencies
 pip install PyQt5
-# or
 pip install PySide6
 
 # Run
